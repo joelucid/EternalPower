@@ -15,14 +15,13 @@
         <key>ProgramArguments</key>
         <array>
         <string>epd</string>
-        <string>35</string>
-        <string>50</string>
+        <string>-launchd</string>
         </array>
         <key>StandardOutPath</key>
         <string>/Library/Application Support/EternalPower/epd.log</string>
         <key>Version</key>
         <string>
-        version=1.0
+        version=1.0.1
         </string>
 </dict>
 </plist>
