@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.joelucid.EternalPower.epd</string>
+	<key>Program</key>
+	<string>/Library/Application Support/EternalPower/epd</string>
+	<key>KeepAlive</key>
+	<true/>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>AbandonProcessGroup</key>
+	<true/>
+        <key>ProgramArguments</key>
+        <array>
+        <string>epd</string>
+        <string>35</string>
+        <string>50</string>
+        </array>
+        <key>StandardOutPath</key>
+        <string>/Library/Application Support/EternalPower/epd.log</string>
+        <key>Version</key>
+        <string>
+        version=1.0
+        </string>
+</dict>
+</plist>
