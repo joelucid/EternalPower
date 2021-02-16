@@ -42,7 +42,7 @@
 		</data>
 		<key>Resources/epd</key>
 		<data>
-		P5wSVA7uhK52WUMSgfwnlI5nPTI=
+		BylEiCb8LrnKohfcvNtaY27LHzQ=
 		</data>
 		<key>Resources/epd.conf</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Resources/epd.state</key>
 		<data>
-		mY/aEPw+9H9tPpS5UeCyoTTscBQ=
+		L3tbkW7yin4IpuLGYcwZQl4A4Xs=
 		</data>
 		<key>Resources/install_daemon.sh</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M5HOM3JA0PdWE9O+Hd50fftBXSggWWRtvNZwN0sLnb4=
+			SKoNMQzfgR28uFYBUervtJuTjlpo7rrsn8JflBKGBGU=
 			</data>
 		</dict>
 		<key>Resources/epd.conf</key>
@@ -153,7 +153,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4zM7KOF2HaIiBEqbRbxjgwsVp1K/q9axn3DkqTt79Uo=
+			EokZyy7TKR4hLVU/i0gyCSAlimshwnZ+//9HYYrEqNU=
 			</data>
 		</dict>
 		<key>Resources/install_daemon.sh</key>
